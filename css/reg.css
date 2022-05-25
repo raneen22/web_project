@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(161, 161, 255);
+ background-image: url("../../img/module_table_bottom.png");
+}
+
+
+
+#form  {
+    border-radius: 10%;
+    padding: 40px;
+    background-color: white;
+    width: 100%;
+    margin: 10% auto;
+    box-shadow: -10px 14px 35px 8px rgba(189, 163, 163, 0.1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
